@@ -1,0 +1,7 @@
+{
+  "name": "FBC-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
